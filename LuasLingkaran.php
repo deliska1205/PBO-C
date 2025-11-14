@@ -1,5 +1,6 @@
 <?php
 
+namespace App\Math; //pasang name space
 
 class LuasLingkaran{
 
